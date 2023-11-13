@@ -2,7 +2,7 @@
 
 Story-Score is an example project that aims at adding background scores to textual storylines.
 
-This project utlizes models at `Huggingface Hub` and `Beatoven.ai`
+This project utilizes models at `Huggingface Hub` and `Beatoven.ai`
  
 ### Input Text
 
@@ -10,6 +10,6 @@ This project utlizes models at `Huggingface Hub` and `Beatoven.ai`
 
 ### Output Audio
 
-![Scored Audio](output.mp3)
+[Scored Audio File](output.mp3)
 
 See [python notebook](./main.ipynb) for more details.
