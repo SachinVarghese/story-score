@@ -1,0 +1,35 @@
+{
+    "genre": [
+        "indian",
+        "pop",
+        "ambient",
+        "indie",
+        "rnb",
+        "cinematic",
+        "hiphop",
+        "electronic"
+    ],
+    "emotion": [
+        "sad",
+        "calm",
+        "motivational",
+        "happy",
+        "scary",
+        "cheerful",
+        "angry",
+        "triumphant",
+        "relaxing",
+        "depressing",
+        "dreamy",
+        "inspirational",
+        "energetic",
+        "joyful",
+        "tense",
+        "fearful"
+    ],
+    "tempo": [
+        "slow",
+        "medium",
+        "fast"
+    ]
+}
